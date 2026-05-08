@@ -1,0 +1,51 @@
+# Stylianos (Stelios) Gisdakis
+
+> Head of AI at Filed. A decade of leadership in data, ML, and platform
+> engineering across fintech — Visa, Tink, Anyfin, Spotify, Klarna.
+> PhD in Electrical Engineering from KTH Royal Institute of Technology.
+> Based in Stockholm, Sweden.
+
+## Current
+
+- **Head of AI, Filed** (Aug 2025 – present). Stockholm. Building and
+  leading the AI organisation: ML platform, research direction, and
+  shipping models into the workflows of finance teams.
+
+## Previous roles
+
+- **Senior Director, Core Platform — Visa** (Oct 2024 – Nov 2025).
+  Led core platform engineering across Visa Global Open Banking. Owned
+  the multi-region systems that banks and fintechs across Europe plug
+  into — reliability, scaling, developer platform, engineering leadership.
+- **Director, Data & Analytics — Tink** (Jan 2023 – Oct 2024).
+  Ran data and analytics for the open-banking product through Tink's
+  acquisition by Visa.
+- **Head of Data Science — Anyfin** (Oct 2018 – Jan 2023). First data
+  hire. Built the team that owned credit risk and pricing as the
+  company grew.
+- **Senior Data Scientist — Spotify** (Nov 2017 – Oct 2018).
+  Personalisation and experimentation on the consumer product.
+- **Data Scientist · Team Lead — Klarna** (Jan 2016 – Nov 2017). ML
+  models for credit risk and fraud on the consumer credit product.
+
+## Education
+
+- **PhD, Electrical Engineering — KTH Royal Institute of Technology**
+  (2012 – 2016). Networked systems security: machine-learning approaches
+  to intrusion and fraud detection, identity and credential management
+  for vehicular and mobile systems.
+- **MSc, Information & Communication Systems Security — KTH** (2009 – 2011).
+- **Diploma, Computer Science — Athens University of Economics and
+  Business** (2004 – 2008).
+
+## Background
+
+- Nationality: Greek. Resident in Sweden since 2009.
+- Languages: Greek (native), English (full professional), Swedish
+  (working), French (working).
+
+## Contact
+
+- Email: gisdakis.s@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gisdakis
+- Site: https://gisdakis.github.io/
